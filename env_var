@@ -1,0 +1,8 @@
+export PG_USER=testread
+export PG_PASSWORD=testread
+
+#To-DO : Change User Name and password for Dest DB
+export DEST_PG_USER=root
+export DEST_PG_PASSWORD=root
+export FTP_USER=candidate
+export FTP_PASSWORD=XHf8CAwZFzTtfK7qxZ
